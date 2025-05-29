@@ -1,6 +1,3 @@
-# LLM integration
-torch>=2.0
-transformers>=4.30
-
-# Optional for future development
-python-dotenv>=0.19  # For configuration management
+# API integration
+requests>=2.31
+python-dotenv>=0.19  # For API key management
