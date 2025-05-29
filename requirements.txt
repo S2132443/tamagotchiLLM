@@ -1,0 +1,6 @@
+# LLM integration
+torch>=2.0
+transformers>=4.30
+
+# Optional for future development
+python-dotenv>=0.19  # For configuration management
